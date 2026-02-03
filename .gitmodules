@@ -9,4 +9,4 @@
 [submodule "osp.snapshots"]
 	path = osp.snapshots
 	url = https://github.com/esqLABS/osp.snapshots
-	branch = v1.0.0
+	branch = v0.2.2
