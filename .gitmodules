@@ -5,8 +5,8 @@
 [submodule "esqlabsR"]
 	path = esqlabsR
 	url = https://github.com/esqLABS/esqlabsR
-	branch = *release
+	branch = v5.7.0
 [submodule "osp.snapshots"]
 	path = osp.snapshots
 	url = https://github.com/esqLABS/osp.snapshots
-	branch = *release
+	branch = v0.2.2
