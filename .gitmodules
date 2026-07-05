@@ -1,4 +1,12 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/esqlabs/esqlabs.r-universe.dev
 	branch = HEAD
+[submodule "esqlabsR"]
+	path = esqlabsR
+	url = https://github.com/esqLABS/esqlabsR
+	branch = *release
+[submodule "osp.snapshots"]
+	path = osp.snapshots
+	url = https://github.com/esqLABS/osp.snapshots
+	branch = *release
