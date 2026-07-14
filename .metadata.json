@@ -1,9 +1,5 @@
 [
   {
-    "package": "esqlabsR",
-    "releasetag": true
-  },
-  {
     "package": "osp.snapshots",
     "releasetag": true
   }
