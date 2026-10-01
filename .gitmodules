@@ -2,6 +2,10 @@
 	path = .registry
 	url = https://github.com/esqlabs/esqlabs.r-universe.dev
 	branch = HEAD
+[submodule "ESQivive"]
+	path = ESQivive
+	url = https://github.com/esqLABS/ESQivive
+	branch = *release
 [submodule "esqlabsR"]
 	path = esqlabsR
 	url = https://github.com/esqLABS/esqlabsR
